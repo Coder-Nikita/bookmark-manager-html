@@ -39,8 +39,6 @@ This project is built using pure HTML and demonstrates the use of anchor tags, e
 
 ---
 
-## 📸 Preview
-
 
 ## 📸 Preview
 
