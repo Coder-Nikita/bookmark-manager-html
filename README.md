@@ -41,7 +41,8 @@ This project is built using pure HTML and demonstrates the use of anchor tags, e
 
 ## 📸 Preview
 
-*(You can later add a screenshot of the webpage here)*
+images/bookmark-preview.png
+
 
 ---
 
