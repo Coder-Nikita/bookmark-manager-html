@@ -42,7 +42,10 @@ This project is built using pure HTML and demonstrates the use of anchor tags, e
 ## 📸 Preview
 
 
-images/bookmark-preview.png
+## 📸 Preview
+
+![Bookmark Preview](images/bookmark-preview.png)
+
 
 ---
 
